@@ -1,0 +1,45 @@
+_repo: Frankenstein-ou-le-Promethee-moderne-Volume-3-of-3_62406
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Saladin, Jules
+    birthdate: 1700
+    deathdate: 1800
+    gutenberg_agent_id: '51941'
+    url: http://www.gutenberg.org/2009/agents/51941
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary W.
+    - Shelley, Mary Wollstonecraft Godwin
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: ''
+gutenberg_bookshelf:
+- FR Science fiction
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62406'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Frankenstein''s monster (Fictitious character) -- Fiction'
+- !lcsh 'Gothic fiction'
+- !lcsh 'Frankenstein, Victor (Fictitious character) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Monsters -- Fiction'
+- !lcsh 'Scientists -- Fiction'
+- GITenberg
+title: Frankenstein, ou le Prométhée moderne Volume 3 (of 3)
+url: http://www.gutenberg.org/ebooks/62406
